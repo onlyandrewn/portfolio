@@ -237,7 +237,7 @@ export default function Header() {
 					<p className="header__availability-text">Available for teaching opportunities</p>
 				</div>
 
-				<a href="resume.pdf" style={{ textDecoration: "none" }}><Button/></a>
+				<Button/>
 			</div>
 
 			<p className="photo__credit">Photo by Pam Lau</p>
