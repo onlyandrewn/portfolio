@@ -53,16 +53,16 @@
   },
   {
     "order": 5,
-    "project_name": "The Emancipator",
-    "project_slug": "the-emancipator",
+    "project_name": "Inside the War on Harvard",
+    "project_slug": "inside-the-war-on-harvard",
     "project_category": "Special presentation",
     "publication": "The Boston Globe",
-    "publish_date": "April 2022",
-    "publish_date_num": "04-01-2022",
-    "project_description": "The Emancipator is a nonprofit digital magazine that reimagines the nation’s first abolitionist newspapers for a new day. It centers critical voices, debates, and evidence-based opinion to reframe the national conversation on racial equity.",
-    "image_type": "jpg",
-    "image_caption": "A copy of the first issue of the Emancipator published on April 30, 1820.",
-    "project_url": "https://www.bostonglobe.com/opinion/the-emancipator/"
+    "publish_date": "December 2025",
+    "publish_date_num": "12-22-2025",
+    "project_description": "Over a decade of political and cultural upheaval, America’s most powerful university grew vulnerable to attack. Few could have predicted that President Trump would target Harvard with the most severe sanctions ever imposed on a major university.",
+    "image_type": "png",
+    "image_caption": "A black and white image of the Widener Library at Harvard University showing three banners with the words \"Veritas.\" The middle banner is a crimson red.",
+    "project_url": "https://apps.bostonglobe.com/2025/12/metro/war-on-harvard/decade-harvard-trump-target/"
   },
   {
     "order": 6,
@@ -79,6 +79,19 @@
   },
   {
     "order": 7,
+    "project_name": "We asked 150 Bostonians about wealth and financial security",
+    "project_slug": "we-asked-150-bostonians-about-wealth-and-financial-security",
+    "project_category": "Special presentation",
+    "publication": "The Boston Globe",
+    "publish_date": "November 2025",
+    "publish_date_num": "11-14-2025",
+    "project_description": "Organized and led by the RealTalk Network, in collaboration with The Boston Globe, more than 150 Boston area residents sat down for a series of small-group community conversations to answer a question: What does wealth mean to you?",
+    "image_type": "png",
+    "image_caption": "A map of Greater Boston showing the neighborhoods where residents sat down for a series of small-group community conversations to answer the question: What does wealth mean to you?",
+    "project_url": "https://apps.bostonglobe.com/2025/11/money-power-inequality/squeezed/boston-financial-security/"
+  },
+  {
+    "order": 8,
     "project_name": "Knights of D-Day",
     "project_slug": "knights-of-d-day",
     "project_category": "Special presentation",
@@ -91,7 +104,20 @@
     "project_url": "https://apps.brandonsun.com/documentary/"
   },
   {
-    "order": 8,
+    "order": 9,
+    "project_name": "The Emancipator",
+    "project_slug": "the-emancipator",
+    "project_category": "Special presentation",
+    "publication": "The Boston Globe",
+    "publish_date": "April 2022",
+    "publish_date_num": "04-01-2022",
+    "project_description": "The Emancipator is a nonprofit digital magazine that reimagines the nation’s first abolitionist newspapers for a new day. It centers critical voices, debates, and evidence-based opinion to reframe the national conversation on racial equity.",
+    "image_type": "jpg",
+    "image_caption": "A copy of the first issue of the Emancipator published on April 30, 1820.",
+    "project_url": "https://www.bostonglobe.com/opinion/the-emancipator/"
+  },
+  {
+    "order": 10,
     "project_name": "Life in Ferguson",
     "project_slug": "life-in-ferguson",
     "project_category": "Special presentation",
@@ -104,7 +130,7 @@
     "project_url": "https://graphics.stltoday.com/apps/ferguson-visual-essay/"
   },
   {
-    "order": 9,
+    "order": 11,
     "project_name": "The Globe endorses Joe Biden for president",
     "project_slug": "the-globe-endorses-joe-biden-for-president",
     "project_category": "Special presentation",
@@ -117,7 +143,7 @@
     "project_url": "https://apps.bostonglobe.com/opinion/graphics/2020/10/biden-endorsement/"
   },
   {
-    "order": 10,
+    "order": 12,
     "project_name": "Beyond the Gilded Gate",
     "project_slug": "beyond-the-gilded-gate",
     "project_category": "Special presentation",
@@ -130,20 +156,33 @@
     "project_url": "https://apps.bostonglobe.com/2023/10/special-projects/spotlight-boston-housing/beyond-the-gilded-gate/"
   },
   {
-    "order": 11,
+    "order": 13,
+    "project_name": "What do you remember most from COVID?",
+    "project_slug": "what-do-you-remember-most-from-covid",
+    "project_category": "Special presentation",
+    "publication": "The Boston Globe",
+    "publish_date": "April 2025",
+    "publish_date_num": "04-14-2025",
+    "project_description": "Five years ago, Governor Charlie Baker declared a state of emergency in Massachusetts. Within days, the nation would be plunged into the worst public health crisis since 1918, yet the nation has never really reckoned with its loss.",
+    "image_type": "png",
+    "image_caption": "A collection of COVID-related images submitted by Boston Globe readers.",
+    "project_url": "https://apps.bostonglobe.com/metro/graphics/2025/04/covid-timeline/"
+  },
+  {
+    "order": 14,
     "project_name": "True stories from an ICU",
     "project_slug": "true-stories-from-an-icu",
     "project_category": "Special presentation",
     "publication": "The Boston Globe",
     "publish_date": "May 2023",
     "publish_date_num": "05-05-2023",
-    "project_description": "It was still dark when ICU nurse Ernesto Barbieri arrived for his shift. The day that followed was both thrilling and mundane; lives were saved, but life is precarious there every day.",
+    "project_description": "It was still dark when ICU nurse Ernesto Barbieri arrived for his shift. The day that followed was both thrilling and mundane; lives were saved, but life is precarious there every day. Written by Barbieri and illustrated by Jess Ruliffson.",
     "image_type": "jpg",
     "image_caption": "An illustration of nurses tending to a patient.",
     "project_url": "https://apps.bostonglobe.com/opinion/graphics/2023/05/tenderness-brutality-icu-nurse/"
   },
   {
-    "order": 12,
+    "order": 15,
     "project_name": "The Longevity Hub",
     "project_slug": "the-longevity-hub",
     "project_category": "Special presentation",
@@ -156,7 +195,7 @@
     "project_url": "https://apps.bostonglobe.com/opinion/graphics/2022/04/the-longevity-hub/"
   },
   {
-    "order": 13,
+    "order": 16,
     "project_name": "Prairie restoration project is in bloom in north St. Louis",
     "project_slug": "prairie-restoration-project-is-in-bloom-in-north-st-louis",
     "project_category": "Special presentation",
@@ -169,7 +208,20 @@
     "project_url": "https://graphics.stltoday.com/apps/prairie/"
   },
   {
-    "order": 14,
+    "order": 17,
+    "project_name": "White Stadium has a history marred by violence and neglect",
+    "project_slug": "white-stadium",
+    "project_category": "Special presentation",
+    "publication": "The Boston Globe",
+    "publish_date": "August 2025",
+    "publish_date_num": "08-28-2025",
+    "project_description": "It took decades to achieve with heaps of political squabbling along the way. The nearly 80-year-old clamshell structure in Boston’s largest public park was once hailed as the finest school stadium in the nation. The magic didn’t last.",
+    "image_type": "png",
+    "image_caption": "White Stadium, nestled inside Boston's Franklin Park, has been the home of the city's public school athletes since its opening in 1949. But it has become an eyesore, left to decay as teams play in front of sparse crowds. A renovation aims to restore the former glory by the time the NWSL's Boston Legacy take the field in 2027.",
+    "project_url": "https://apps.bostonglobe.com/2025/08/sports/white-stadium-boston/"
+  },
+  {
+    "order": 18,
     "project_name": "St. Louis Blues Top 50 Players of All Time",
     "project_slug": "st-louis-blues-top-50-players-of-all-time",
     "project_category": "Special presentation",
@@ -182,7 +234,7 @@
     "project_url": "https://graphics.stltoday.com/apps/blues50/"
   },
   {
-    "order": 15,
+    "order": 19,
     "project_name": "Tariffs and drought weigh heavily on farmers",
     "project_slug": "tariffs-and-drought-weigh-heavily-on-farmers",
     "project_category": "Special presentation",
@@ -195,7 +247,7 @@
     "project_url": "https://graphics.stltoday.com/apps/farmers/"
   },
   {
-    "order": 16,
+    "order": 20,
     "project_name": "Faces of the Flood",
     "project_slug": "faces-of-the-flood",
     "project_category": "Special presentation",
@@ -208,20 +260,7 @@
     "project_url": "https://graphics.stltoday.com/apps/faces/"
   },
   {
-    "order": 17,
-    "project_name": "How do we memorialize the pandemic?",
-    "project_slug": "how-do-we-memorialize-the-pandemic",
-    "project_category": "Special presentation",
-    "publication": "The Boston Globe",
-    "publish_date": "May 2022",
-    "publish_date_num": "05-01-2022",
-    "project_description": "Throughout the pandemic, temporary memorials have paid tribute to those lives claimed by the virus. They serve as quiet places to mourn loved ones and a chance to comprehend the enormity of the pandemic — more than six million dead.",
-    "image_type": "jpg",
-    "image_caption": "Stones with the names of various loved ones written on them.",
-    "project_url": "https://apps.bostonglobe.com/opinion/graphics/2022/05/covid-memorial/"
-  },
-  {
-    "order": 18,
+    "order": 21,
     "project_name": "Teens Speak",
     "project_slug": "teens-speak",
     "project_category": "Special presentation",
@@ -234,7 +273,7 @@
     "project_url": "https://apps.bostonglobe.com/opinion/ideas/graphics/2023/09/teens-speak/"
   },
   {
-    "order": 19,
+    "order": 22,
     "project_name": "Limited engagement",
     "project_slug": "limited-engagement",
     "project_category": "Interactive graphics",
@@ -247,7 +286,7 @@
     "project_url": "https://public.flourish.studio/visualisation/15524103/"
   },
   {
-    "order": 20,
+    "order": 23,
     "project_name": "Town-by-town map: See where median home prices have risen the most",
     "project_slug": "town-by-town-map-see-where-median-home-prices-have-risen-the-most",
     "project_category": "Interactive graphics",
@@ -260,7 +299,7 @@
     "project_url": "https://www.bostonglobe.com/2024/06/03/business/massachusetts-cape-cod-median-home-price-increase-map-greater-boston-real-estate/"
   },
   {
-    "order": 21,
+    "order": 24,
     "project_name": "What’s the rent where you live? The Globe’s new rent tracker keeps tabs all over Eastern Mass.",
     "project_slug": "whats-the-rent-where-you-live",
     "project_category": "Interactive graphics",
@@ -273,7 +312,7 @@
     "project_url": "https://www.bostonglobe.com/2024/08/12/business/greater-boston-apartments-rent-price-tracker/"
   },
   {
-    "order": 22,
+    "order": 25,
     "project_name": "Concentrated poverty in metropolitan America",
     "project_slug": "concentrated-poverty-in-metropolitan-america",
     "project_category": "Interactive graphics",
@@ -286,7 +325,46 @@
     "project_url": "https://public.flourish.studio/story/2083902/"
   },
   {
-    "order": 23,
+    "order": 26,
+    "project_name": "Governor Maura Healey's public events since she took office",
+    "project_slug": "governor-maura-healeys-public-events",
+    "project_category": "Interactive graphics",
+    "publication": "The Boston Globe",
+    "publish_date": "March 2026",
+    "publish_date_num": "03-10-2026",
+    "project_description": "As potential opponents lined up against her reelection bid, Governor Maura Healey scaled back the number of official events she did last year, putting her in the Massachusetts public eye far less often than early in her first term.",
+    "image_type": "png",
+    "image_caption": "A dot map of Massachusetts by town showing the number of public events Governor Maura Healey has attended since she took office.",
+    "project_url": "https://apps.bostonglobe.com/2026/03/metro/governor-healey-public-events/"
+  },
+  {
+    "order": 27,
+    "project_name": "How does gasoline get to New England?",
+    "project_slug": "how-does-gasoline-get-to-new-england",
+    "project_category": "Interactive graphics",
+    "publication": "The Boston Globe",
+    "publish_date": "March 2026",
+    "publish_date_num": "03-25-2026",
+    "project_description": "There are more than 100 oil refineries in the United States, but many of them aren’t designed to process the kind of “light, sweet” crude oil. Massachusetts has no oil fields or refineries, so every drop of fuel to the state is imported.",
+    "image_type": "png",
+    "image_caption": "A map of the United States showing the locations of crude oil pipelines and oil refineries.",
+    "project_url": "https://www.bostonglobe.com/2026/03/25/business/strait-of-hormuz-new-england-gasoline/"
+  },
+  {
+    "order": 28,
+    "project_name": "Public coastal and beach access sites in Massachusetts",
+    "project_slug": "public-coastal-and-beach-access-sites-in-massachusetts",
+    "project_category": "Interactive graphics",
+    "publication": "The Boston Globe",
+    "publish_date": "July 2025",
+    "publish_date_num": "07-18-2025",
+    "project_description": "When Governor Maura Healey added a provision to expand public beach access to an environmental bond bill, she reignited a long simmering debate about how accessible the Commonwealth’s coveted beaches should be.",
+    "image_type": "png",
+    "image_caption": "A map of Massachusetts showing beaches shaded blue and other public coastal access points in yellow.",
+    "project_url": "https://apps.bostonglobe.com/metro/graphics/2025/07/beaches-map"
+  },
+  {
+    "order": 30,
     "project_name": "Polls suggest a close race. These maps show it might not be.",
     "project_slug": "polls-suggest-a-close-race",
     "project_category": "Interactive graphics",
@@ -299,7 +377,7 @@
     "project_url": "https://public.flourish.studio/story/2771507/"
   },
   {
-    "order": 24,
+    "order": 31,
     "project_name": "The childhood roots of social mobility",
     "project_slug": "the-childhood-roots-of-social-mobility",
     "project_category": "Interactive graphics",
@@ -312,7 +390,7 @@
     "project_url": "https://public.flourish.studio/visualisation/15523889/"
   },
   {
-    "order": 25,
+    "order": 32,
     "project_name": "Mobility by race",
     "project_slug": "mobility-by-race",
     "project_category": "Interactive graphics",
@@ -325,7 +403,7 @@
     "project_url": "https://public.flourish.studio/visualisation/15524110/"
   },
   {
-    "order": 26,
+    "order": 33,
     "project_name": "Employment in downtown Boston and surrounding neighborhoods",
     "project_slug": "employment-in-downtown-boston-and-surrounding-neighborhoods",
     "project_category": "Interactive graphics",
@@ -338,7 +416,7 @@
     "project_url": "https://public.flourish.studio/visualisation/20805398/"
   },
   {
-    "order": 27,
+    "order": 34,
     "project_name": "Homicide tracker",
     "project_slug": "homicide-tracker",
     "project_category": "News apps / databases",
@@ -351,8 +429,8 @@
     "project_url": "https://graphics.stltoday.com/apps/homicide-tracker/2024/"
   },
   {
-    "order": 28,
-    "project_name": "St. Ann police pursuits (Jan. 2018 - Jan. 2019)",
+    "order": 35,
+    "project_name": "St. Ann police pursuits",
     "project_slug": "st-ann-police-pursuits",
     "project_category": "Interactive graphics",
     "publication": "St. Louis Post-Dispatch",
@@ -364,7 +442,7 @@
     "project_url": "https://graphics.stltoday.com/apps/police-pursuits/"
   },
   {
-    "order": 29,
+    "order": 36,
     "project_name": "Residential neighborhood disadvantage",
     "project_slug": "residential-neighborhood-disadvantage",
     "project_category": "Interactive graphics",
@@ -377,7 +455,7 @@
     "project_url": "https://public.flourish.studio/story/2072112/"
   },
   {
-    "order": 30,
+    "order": 37,
     "project_name": "His development rights are gone, but Paul McKee is not",
     "project_slug": "his-development-rights-are-gone-but-paul-mckee-is-not",
     "project_category": "Interactive graphics",
@@ -390,7 +468,7 @@
     "project_url": "https://graphics.stltoday.com/apps/maps/mckee-properties/"
   },
   {
-    "order": 31,
+    "order": 38,
     "project_name": "America's infrastructure report card",
     "project_slug": "americas-infrastructure-report-card",
     "project_category": "Interactive graphics",
@@ -403,21 +481,8 @@
     "project_url": "https://public.flourish.studio/visualisation/15524113/"
   },
   {
-    "order": 32,
-    "project_name": "Marijuana businesses applying to open in St. Louis area",
-    "project_slug": "marijuana-businesses-applying-to-open-in-st-louis-area",
-    "project_category": "Interactive graphics",
-    "publication": "St. Louis Post-Dispatch",
-    "publish_date": "September 2019",
-    "publish_date_num": "09-01-2019",
-    "project_description": "Missouri has received more than 600 applications to grow, process, test, transport and sell marijuana or marijuana-infused products in the St. Louis area. State records reveal the type of facility and where each facility would open shop.",
-    "image_type": "png",
-    "image_caption": "A map of the St. Louis area showing the various businesses that applied to grow, process, test, transport and sell marijuana or marijuana-infused products and where they would open up shop.",
-    "project_url": "https://graphics.stltoday.com/apps/maps/marijuana-businesses/"
-  },
-  {
-    "order": 33,
-    "project_name": "Voter turnout in Boston’s 2021 preliminary mayoral election",
+    "order": 39,
+    "project_name": "Voter turnout in Boston’s preliminary mayoral election",
     "project_slug": "voter-turnout-in-bostons-2021-preliminary-mayoral-election",
     "project_category": "Interactive graphics",
     "publication": "The Boston Globe",
@@ -427,18 +492,5 @@
     "image_type": "jpeg",
     "image_caption": "A choropleth map of Boston by precinct showing voter turnout in the 2021 preliminary mayoral election.",
     "project_url": "https://public.flourish.studio/visualisation/15523851/"
-  },
-  {
-    "order": 34,
-    "project_name": "Nursing homes in Missouri where at least one resident or staff member has COVID-19",
-    "project_slug": "nursing homes-in-missouri-where-at-least-one-resident-or-staff-member-has-covid",
-    "project_category": "Interactive graphics",
-    "publication": "St. Louis Post-Dispatch",
-    "publish_date": "June 2020",
-    "publish_date_num": "06-05-2020",
-    "project_description": "More than 250 nursing home residents in Missouri have died of COVID-19, according to data from the Centers for Medicare and Medicaid Services. Records reveal dozens of federally-licensed nursing homes in the state reporting infections.",
-    "image_type": "png",
-    "image_caption": "A map of Missouri showing nursing homes in the state where at least one resident or staff member has COVID-19.",
-    "project_url": "https://graphics.stltoday.com/apps/maps/covid19-cases-by-nursing-home/"
   }
 ]

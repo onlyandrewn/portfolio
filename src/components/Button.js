@@ -14,8 +14,6 @@ const ButtonStyles = styled.button`
     background: #f6a302;
     text-align: left;
     font-size: 12px;
-	// background: transparent;
-	// border: 2px solid #fff;
 
 	&:hover,
 	&:active,
