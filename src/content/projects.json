@@ -469,19 +469,6 @@
   },
   {
     "order": 38,
-    "project_name": "America's infrastructure report card",
-    "project_slug": "americas-infrastructure-report-card",
-    "project_category": "Interactive graphics",
-    "publication": "The Boston Globe",
-    "publish_date": "March 2021",
-    "publish_date_num": "03-31-2021",
-    "project_description": "The American Society of Civil Engineers gave the nation’s infrastructure a grade of C-, an improvement from a D+ four years ago. While there was improvement in some categories, 11 of the 17 categories received D’s.",
-    "image_type": "png",
-    "image_caption": "A table showing the grades the American Society of Civil Engineers gave to the nation’s infrastructure from 1988 to 2021.",
-    "project_url": "https://public.flourish.studio/visualisation/15524113/"
-  },
-  {
-    "order": 39,
     "project_name": "Voter turnout in Boston’s preliminary mayoral election",
     "project_slug": "voter-turnout-in-bostons-2021-preliminary-mayoral-election",
     "project_category": "Interactive graphics",
