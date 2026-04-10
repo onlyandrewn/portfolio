@@ -2,7 +2,7 @@ import React from 'react';
 import BackgroundImage from 'gatsby-background-image';
 import { graphql, useStaticQuery } from 'gatsby';
 import styled from 'styled-components';
-import { useMediaQuery } from 'react-responsive';
+// import { useMediaQuery } from 'react-responsive';
 import Button from '../components/Button';
 import { FaCheckCircle } from 'react-icons/fa'
 
@@ -89,6 +89,11 @@ const HeaderStyles = styled.header`
 		z-index: 99;
 	}
 
+	.header__bg {
+		height: calc(100vh - 91.59px);
+		background-position: center bottom !important;
+	}
+
 	@media (max-width: 1200px) {
 		h1 {
 			font-size: 48px;
@@ -161,6 +166,10 @@ const HeaderStyles = styled.header`
 		.photo__credit {
 			bottom: 2%;
 		}
+
+		.header__bg {
+			height: calc(100vh - 79.8px);
+		}
 	}
 
 	@media (max-width: 480px) {
@@ -191,6 +200,10 @@ const HeaderStyles = styled.header`
 		.header__info {
 			bottom: 1%;
 		}
+
+		.header__bg {
+			height: calc(100vh - 68.8px);
+		}
 	}
 `;
 
@@ -209,22 +222,6 @@ export default function Header() {
 	`);
 
 	const imageData = data.desktop.childImageSharp.fluid;
-
-	// Responsive Background Position Logic
-	const breakpoint640 = useMediaQuery({ maxWidth: 640 });
-	const breakpoint360 = useMediaQuery({ maxWidth: 360 });
-
-	// Dynamically update background position
-	let backgroundPosition = "center bottom";
-	let height = "calc(100vh - 91.59px)";
-
-	if (breakpoint640) {
-		height = "calc(100vh - 79.8px)";
-	}
-
-	if (breakpoint360) {
-		height = "calc(100vh - 68.8px)";
-	}
 
 	return (
 		<HeaderStyles>
@@ -245,10 +242,7 @@ export default function Header() {
 			<BackgroundImage
 				Tag="div"
 				fluid={imageData}
-				style={{ 
-					height: height,
-					backgroundPosition: backgroundPosition 
-				}}
+				className="header__bg"
 			>
 			</BackgroundImage>
 		</HeaderStyles>

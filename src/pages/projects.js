@@ -9,7 +9,7 @@ import Seo from "../components/Seo";
 export default function ProjectsPage({ data }) {
   const { author, image, url, twitterHandle } = data.site.siteMetadata;
 
-  const sortedProjects = projects.sort((a, b) => {
+  const sortedProjects = [...projects].sort((a, b) => {
     const dateA = new Date(a.publish_date_num);
     const dateB = new Date(b.publish_date_num);
     return dateB - dateA;
@@ -17,15 +17,6 @@ export default function ProjectsPage({ data }) {
 
   const categoryOrder = ["Special presentation", "Interactive graphics", "News apps / databases"];
   const groupedProjects = {};
-
-  projects.forEach(project => {
-    const { project_category } = project;
-    if (!groupedProjects[project_category]) {
-      groupedProjects[project_category] = [];
-    }
-
-    groupedProjects[project_category].push(project);
-  });
 
   categoryOrder.forEach(category => {
     groupedProjects[category] = sortedProjects.filter(project => project.project_category === category);
