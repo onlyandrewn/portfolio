@@ -60,5 +60,8 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "esm": "^3.2.25",
     "prettier": "^3.0.3"
+  },
+  "overrides": {
+    "webpack": "5.98.0"
   }
 }
